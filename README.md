@@ -228,8 +228,7 @@ System-wide theme toggle available on every page. Defaults to dark.
 
 **Contact:**
 
-📧 support@shiftza.com
-
+📧 hallo@shiftza.in
 ---
 
 <div align="center">
